@@ -13,7 +13,7 @@
 
 I love helping others understand technology and using data to uncover insights. I currently teach Python, JavaScript, and STEM at **Penguin Coding School**, where I design engaging coding lessons and coach students in robotics competitions.
 
-My teaching focuses on making code approachable through **games** and **creative tools** — from programming in **Minecraft using text-based and block coding**, to **designing stories in Scratch**, and developing interactive lessons using **Lua in Roblox**.
+My teaching focuses on making code approachable through **games** and **creative tools** , from programming in **Minecraft using text-based and block coding**, to **designing stories in Scratch**, and developing interactive lessons using **Lua in Roblox**.
 
 In college, I’ve explored networking, cybersecurity, databases, and full-stack development. I’m especially drawn to clean design, structured problem-solving, and the creative side of tech.
 
