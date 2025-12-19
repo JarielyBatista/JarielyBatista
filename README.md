@@ -63,5 +63,5 @@ In college, I’ve explored systems analysis, databases, networking, and project
 I'm always excited to connect with other tech enthusiasts, educators, and data-driven thinkers!
 
 📧 Email: jarielybatista@gmail.com  
-💻 Portfolio Website: (http://www.jarielybatista.com/)
+💻 Portfolio Website: http://www.jarielybatista.com/
 🔗 LinkedIn: [linkedin.com/in/jarielybatista](https://www.linkedin.com/in/jarielybatista)
